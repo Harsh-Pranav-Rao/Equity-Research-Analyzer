@@ -1,1 +1,1 @@
-# Equity-Research-Analyzer
+An end to end LLM project which takes in urls of articles and news posts related to companies to answer questions related to the content and make educated predictions on equity and share price of the company. 
